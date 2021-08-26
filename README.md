@@ -11,7 +11,7 @@
     <img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="20px">
   </a>
   
-  <a href="http://https://rubenclerc.github.io">
+  <a href="http://rubenclerc.github.io">
     <img src="https://img.icons8.com/pastel-glyph/2x/website--v2.png" height="20px">
   </a>
 </div>
