@@ -4,7 +4,7 @@
 :star2: I like web development, cybersecurity, and many other things <br>
 :chess_pawn: Currently learning a little bit of everything
 
-## My social networks
+## My links
 
 <div style="display:flex;">
   <a href="https://www.linkedin.com/in/ruben-clerc/">
