@@ -16,7 +16,7 @@
   </a>
   
   <a href="http://tryhackme.com/p/BrandonBg">
-    <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" height="20px">
+    <img src="https://tryhackme.com/img/favicon.png" height="20px">
   </a>
 </div>
 
