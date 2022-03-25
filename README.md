@@ -12,7 +12,7 @@
   </a>
   
   <a href="http://rubenclerc.github.io">
-    <img src="https://img.icons8.com/pastel-glyph/2x/website--v2.png" height="20px">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fsvg%2F20170824%2F65b3db429c.png&f=1&nofb=1" height="20px">
   </a>
   
   <a href="http://tryhackme.com/p/BrandonBg">
