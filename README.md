@@ -15,6 +15,6 @@
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fsvg%2F20170824%2F65b3db429c.png&f=1&nofb=1" height="20px">
   </a>
   
-  <script src="https://tryhackme.com/badge/436751"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Ruru667.png" alt="TryHackMe">
 </div>
 
