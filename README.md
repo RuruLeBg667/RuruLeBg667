@@ -16,7 +16,7 @@
   </a>
   
   <a href="https://tryhackme.com/p/Ruru667">
-
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Ruru667.png" alt="TryHackMe">
   </a>
 </div>
 
