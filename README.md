@@ -1,4 +1,4 @@
-Average cybersec enjoyer
+Average cybersec enthusiast
 
 ## My links
 
